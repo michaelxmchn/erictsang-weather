@@ -1,0 +1,19 @@
+{
+  "baseline": {
+    "start_date": "2026-02-16",
+    "target_date": "2026-05-16",
+    "baseline": {
+      "total_sales": 22514750,
+      "total_cost": 3327720,
+      "avg_roi": 6.77,
+      "daily_sales": 750492
+    },
+    "target": {
+      "roi": 12.0,
+      "improvement": "77%"
+    }
+  },
+  "weekly_progress": [],
+  "optimizations": [],
+  "milestones": []
+}
